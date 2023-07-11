@@ -3,3 +3,4 @@ Los archivos 'csv' contienen los datos con los que se generaron los gráficos de
 El archivo ARIMA.ipynb contiene el código con la manipulación de datos y el modelo
 El archivo ARIMA.html es el html generado del código anteriormente mencionado. 
 El archivo Reporte Grupo A.pdf contiene el documento de LaTeX con el trabajo escrito
+El archivo Panel Grupo A.pbix contiene el Power BI
